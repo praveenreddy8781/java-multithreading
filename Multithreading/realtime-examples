@@ -1,0 +1,19 @@
+MULTITHREADING REALTIME EXAMPLES
+
+Background jobs like running application servers like Oracle application server, 
+Web servers like Tomcat ctc which will come into action whenever a request comes.
+
+Performing some execution while I/O blocked.
+
+Gathering information from different web services running in parallel.
+
+Typing MS Word document while listening to music.
+
+Games are very good examples of threading. You can use multiple objects in games like cars, motor bikes, animals, people etc. 
+All these objects are nothing but just threads that run your game application.
+
+Railway ticket reservation system where multiple customers accessing the server.
+
+Multiple account holders accessing their accounts simultaneously on the server. When you insert a ATM card, 
+it starts a thread for perform your operations.
+Servlets are multithreaded.
